@@ -73,21 +73,36 @@ main {
 
 .main-text {
 	font-weight: 600;
+	margin-top: 1.5em;
+	font-size: 1.8em;
 }
 
-#main-logo {
-	height: 0.9em;
+.main-logo {
+	height: 0.7em;
 	display: inline-block;
 }
 
-#main-logo img {
-	height: 100%;
+.main-logo-xs {
+	height: 0.6em;
+	display: inline-block;
+}
+
+.main-logo img {
+	height: 80%;
 }
 
 .main-input {
 	width: 100%;
 	border-bottom: 1px solid #fff;
 	display: inline-block;
+}
+
+.main-input, .main-txt-input {
+	padding-top: 2.5em;
+}
+
+.main-btn {
+	margin-top: 1em;
 }
 
 #app-download {
@@ -109,9 +124,35 @@ main {
 }
 
 #drive-box {
-	background-color: #000;
-	opacity: 0.7;
+	background-color: rgba(0,0,0,0.70);
 	padding: 5.7em 3em 14.286em;
+}
+
+.btn-driver {
+	background-color: #F7B617!important;
+	border-color: #F7B617!important;
+}
+
+.form-control {
+	background-color: #F7B617!important;
+	border: 1px solid #fff!important;
+	border-radius: 6px!important;
+}
+
+.form-control::-webkit-input-placeholder {
+	color: #fff;
+}
+
+.form-control::-moz-placeholder {
+	color: #fff;
+}
+
+.form-control:-ms-input-placeholder {
+	color: #fff;
+}
+
+.form-control:-moz-placeholder {
+	color: #fff;
 }
 
 .text {
@@ -121,6 +162,11 @@ main {
 
 #tarifas {
 	background-color: #F7B617;
+}
+
+.btn-upper {
+	font-size: 1.1em!important;
+	font-weight: 700!important;
 }
 
 .map {
