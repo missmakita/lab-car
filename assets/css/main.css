@@ -1,0 +1,156 @@
+body {
+	padding-top: 8.714em;
+}
+
+.white-border {
+	border: 1px solid white;
+}
+
+.white-text {
+	color: #fff;
+}
+
+.outline {
+	outline: 1px dashed magenta;
+}
+
+.pad {
+	padding-top: 3em;
+	padding-bottom: 3em;
+}
+
+nav {
+	height: 8.714em;
+	background-color: #fff!important;
+}
+
+.navbar-brand img {
+	width: 90%;
+}
+
+.navbar-box {
+	padding: 2.35em 0!important;
+	background-color: #fff;
+}
+
+.link-navbar {
+	font-size: 1.3em;
+	font-weight: 500;
+	margin-left: 2.2em;
+}
+
+.no-pad {
+	padding: 0!important;
+}
+
+main {
+	background-image: url(../images/taxi.jpg);
+	background-position: 50% 92.65%;
+	background-size: cover;
+	background-repeat: no-repeat;
+	height: 51em;
+	color: #fff;
+	font-weight: 700;
+}
+
+.main {
+	padding-top: 10.71em;
+	padding-bottom: 10.71em;
+}
+
+#main-box {
+	background-color: #F7B617;
+	padding: 2.5em;
+	
+}
+
+.title {
+	/*font-size: 2.5em;*/
+	margin-top: 0;
+	margin-bottom: 0em;
+	font-weight: 600;
+}
+
+.main-text {
+	font-weight: 600;
+}
+
+#main-logo {
+	height: 0.9em;
+	display: inline-block;
+}
+
+#main-logo img {
+	height: 100%;
+}
+
+.main-input {
+	width: 100%;
+	border-bottom: 1px solid #fff;
+	display: inline-block;
+}
+
+#app-download {
+	background-color: #F7B617;
+	font-weight: 600;
+}
+
+.subtitle {
+	font-weight: 600;
+	font-size: 2.1em;
+	color: #fff;
+}
+
+#drive {
+	background-image: url(../images/conduce.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center center;
+}
+
+#drive-box {
+	background-color: #000;
+	opacity: 0.7;
+	padding: 5.7em 3em 14.286em;
+}
+
+.text {
+	font-size: 1.3em;
+	color: #fff;
+}
+
+#tarifas {
+	background-color: #F7B617;
+}
+
+.map {
+	height: 31em;
+	border: 0.8em solid #F7B617;
+	outline: 1px solid #fff;
+}
+
+.page-footer {
+	background-color: #2B2B2B;
+}
+
+.footer-list {
+	padding: 0.5em 0;
+}
+
+.footer-links {
+	text-decoration: none;
+	color: #fff;
+}
+
+ul {
+	list-style: none;
+}
+
+#logo-list {
+	padding-top: 12em;
+}
+
+.logo-store {
+	width: 100%;
+	margin: 0.5em 0;
+}
